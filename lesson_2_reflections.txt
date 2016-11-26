@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 	
 	".git" repository creating and we can track filechanges history
 
@@ -20,10 +20,27 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	You can develop several parallel versions of your product
+	and it's much easy to swith between branches
+
 How do the diagrams help you visualize the branch structure?
+
+	If there are a lot of details, it's much easer 
+	to store this information on a screen
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The result is one common branch.
+	Because that's how merging is go on
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	Git automatic merging:
+	pros - fast
+ 	minus --
+	
+	Doing merges manually:
+	pros --
+	minus - slowly
