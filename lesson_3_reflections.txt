@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+When would you want to create a remote repository rather than keeping all your work local?
+  
+    When I work with other people
+
 When would you want to use a remote repository rather than keeping all your work
 local?
 
@@ -28,9 +32,3 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
-||||||| merged common ancestors
-=======
-When would you want to create a remote repository rather than keeping all your work local?
-  
-    When I work with other people
->>>>>>> f4d66f6c933b4cf004ee5db554a016bcb1f82282
